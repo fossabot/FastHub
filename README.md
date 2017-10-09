@@ -3,6 +3,7 @@
 
 [![Build Status](https://travis-ci.org/k0shk0sh/FastHub.svg?branch=master)](https://travis-ci.org/k0shk0sh/FastHub)
 [![codecov](https://codecov.io/gh/k0shk0sh/FastHub/branch/master/graph/badge.svg)](https://codecov.io/gh/k0shk0sh/FastHub) [![Slack Status](https://fasthub.herokuapp.com/badge.svg)](https://fasthub.herokuapp.com)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2FFastHub.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2FFastHub?ref=badge_shield)
 
 ![Logo](/.github/assets/feature_graphic.png?raw=true "Logo")
 
@@ -105,6 +106,9 @@ Read the [**contribution guide**](CONTRIBUTE.md) for more detailed information.
 > Copyright (C) 2017 Kosh. 
 > Licensed under the [GPL-3.0](https://www.gnu.org/licenses/gpl.html) license.
 > (See the [LICENSE](https://github.com/k0shk0sh/FastHub/blob/master/LICENSE) file for the whole license text.)
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FHartmarken%2FFastHub.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FHartmarken%2FFastHub?ref=badge_large)
 
 # Screenshots
 
